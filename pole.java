@@ -7,7 +7,9 @@ public class pole {
         Scanner scanner = new Scanner(System.in);
 
         for (int i = 0; i < 5; i++) {
-            System.out.print("Zadejte hodnotu prvku " + (i + 1) + ": ");
+            System.out.print("Zadejte hodnotu prvku 
+            
+            " + (i + 1) + ": ");
             myArray[i] = scanner.nextLine();
         }
         
